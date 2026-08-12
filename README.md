@@ -189,4 +189,6 @@ GitHub: **@JustBesa**
 
 ## 📄 License
 
-This project is shared for portfolio and educational purposes.
+This project is published for portfolio and educational viewing purposes.
+
+Unless otherwise stated, no permission is granted to copy, modify, redistribute, or commercially use the project content.
