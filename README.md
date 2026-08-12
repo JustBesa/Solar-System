@@ -4,7 +4,9 @@ An interactive **Solar System visualization and educational application** develo
 
 This project was created during my internship in **August 2024** as an interactive application for exploring the Solar System, viewing planets, observing orbital motion, and displaying educational information about celestial objects.
 
-The project was developed using **Unity 2022.3.62f3**.
+The project was originally developed using Unity 2022.3.31f1.
+
+Current project editor version: Unity 2022.3.62f3.
 
 ---
 
